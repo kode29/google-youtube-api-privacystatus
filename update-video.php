@@ -27,7 +27,7 @@ $key_file = "/path/to/the_key.txt";
 # MAKE SURE YOU UPDATE YOUR REDIRECT URL TO MATCH!!!!!!!!!
 $CLIENT_ID = "XXXXXXXXXXXXXX.apps.googleusercontent.com";
 $CLIENT_SECRET = "XXXXXXXXXXX";
-$application_name="japanoblog-youtube";
+$application_name="APPLICATION-NAME";
 
 #CHeck the DB for updated videos
 $video_list=array();
